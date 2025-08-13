@@ -1,0 +1,10 @@
+(
+    nodes: [
+        (
+            id: 1,
+            name: "Node 1",
+            kind: Constant(0.0),
+        ),
+    ],
+    edges: [],
+)

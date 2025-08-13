@@ -1,0 +1,18 @@
+﻿# Build output
+/target/
+**/target/
+
+# IDE project files
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large asset folders
+/minecraft/
+/minecraft_rust/
+
+# Logs
+*.log

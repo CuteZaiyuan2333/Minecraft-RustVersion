@@ -1,0 +1,19 @@
+[package]
+name = "noise_engine"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "noise_engine"
+path = "src/lib.rs"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+ron = "0.8"
+thiserror = "1"
+rand = "0.8"
+fastnoise-lite = "1.1"
+simdnoise = { version = "3", optional = true }
+petgraph = "0.6"
+parking_lot = "0.12"

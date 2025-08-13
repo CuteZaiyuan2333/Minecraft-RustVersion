@@ -1,0 +1,66 @@
+{
+  "app": {
+    "window_title": "Noise Editor"
+  },
+  "menu": {
+    "file": "File",
+    "bake": "Bake",
+    "save": "Save",
+    "load": "Load"
+  },
+  "graph_panel": {
+    "title": "Graph Editor",
+    "hint": "Drag to pan, scroll to zoom. Click and drag nodes to move them.",
+    "add_node": "+ Node",
+    "clear": "Clear",
+    "node_prefix": "Node",
+    "node_types": {
+      "constant": "Constant",
+      "add": "Add",
+      "sub": "Subtract", 
+      "mul": "Multiply",
+      "div": "Divide",
+      "min": "Minimum",
+      "max": "Maximum",
+      "abs": "Absolute",
+      "clamp": "Clamp",
+      "fnl_simplex_2d": "Simplex 2D",
+      "fnl_perlin_2d": "Perlin 2D",
+      "fnl_simplex_3d": "Simplex 3D", 
+      "fnl_perlin_3d": "Perlin 3D",
+      "translate": "Translate",
+      "scale": "Scale"
+    },
+    "parameters": {
+      "value": "Value",
+      "frequency": "Frequency",
+      "min": "Min",
+      "max": "Max",
+      "dx": "X Offset",
+      "dy": "Y Offset", 
+      "dz": "Z Offset",
+      "sx": "X Scale",
+      "sy": "Y Scale",
+      "sz": "Z Scale"
+    },
+    "toolbar": {
+      "select": "Select",
+      "pan": "Pan",
+      "zoom_fit": "Zoom to Fit",
+      "delete": "Delete Selected"
+    }
+  },
+  "preview": {
+    "title": "Preview",
+    "resolution": "Resolution",
+    "generate": "Generate",
+    "channel": "Channel",
+    "r": "R",
+    "g": "G",
+    "b": "B",
+    "width_short": "W",
+    "height_short": "H",
+    "open_window": "Open Preview Window",
+    "window_title": "Preview"
+  }
+}
