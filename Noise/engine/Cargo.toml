@@ -1,0 +1,10 @@
+[package]
+name = "noise_engine"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+thiserror = "1"
+petgraph = "0.6"
+fastnoise-lite = "1"

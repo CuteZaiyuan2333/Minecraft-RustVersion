@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "engine",
+    "Editor",
+]
+
+[profile.dev]
+debug = true
+
+[profile.release]
+opt-level = 3

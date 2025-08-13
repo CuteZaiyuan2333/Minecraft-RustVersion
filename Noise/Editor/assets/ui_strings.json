@@ -1,0 +1,6 @@
+{
+  "app": { "window_title": "Noise Editor" },
+  "menu": { "file": "File", "bake": "Bake", "save": "Save", "load": "Load" },
+  "graph_panel": { "title": "Graph", "hint": "Edit nodes and connections", "add_node": "Add Node", "clear": "Clear", "node_prefix": "Node" },
+  "preview": { "title": "Preview", "resolution": "Resolution", "generate": "Generate", "channel": "Channel", "r": "R", "g": "G", "b": "B", "width_short": "W", "height_short": "H", "open_window": "Open Preview Window", "window_title": "Preview" }
+}

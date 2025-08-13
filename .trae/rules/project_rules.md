@@ -1,0 +1,1 @@
+(auto-uploaded by Trae) Project rules file.
