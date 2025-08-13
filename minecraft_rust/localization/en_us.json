@@ -1,0 +1,132 @@
+{
+    "language_info": {
+        "name": "English (US)",
+        "code": "en_us",
+        "author": "Minecraft Rust Team",
+        "version": "1.0.0"
+    },
+    "ui": {
+        "main_menu": {
+            "title": "Minecraft Rust",
+            "singleplayer": "Singleplayer",
+            "multiplayer": "Multiplayer",
+            "settings": "Settings",
+            "quit": "Quit Game"
+        },
+        "world_selection": {
+            "title": "Select World",
+            "create_new": "Create New World",
+            "back": "Back",
+            "play": "Play Selected World",
+            "delete": "Delete",
+            "edit": "Edit"
+        },
+        "create_world": {
+            "title": "Create New World",
+            "world_name": "World Name",
+            "seed": "Seed",
+            "game_mode": "Game Mode",
+            "world_type": "World Type",
+            "create": "Create World",
+            "cancel": "Cancel",
+            "default_name": "New World"
+        },
+        "pause_menu": {
+            "title": "Game Paused",
+            "resume": "Resume Game",
+            "settings": "Settings",
+            "save_quit": "Save and Quit to Title"
+        },
+        "settings": {
+            "title": "Settings",
+            "graphics": "Graphics",
+            "audio": "Audio",
+            "controls": "Controls",
+            "language": "Language",
+            "done": "Done"
+        }
+    },
+    "game": {
+        "info": {
+            "fps": "FPS",
+            "chunks_loaded": "Chunks Loaded",
+            "position": "Position",
+            "biome": "Biome"
+        },
+        "world_info": {
+            "last_played": "Last played"
+        },
+        "controls": {
+            "hint": "WASD to move, Mouse to look, Esc to pause",
+            "move_forward": "Move Forward",
+            "move_backward": "Move Backward",
+            "move_left": "Move Left",
+            "move_right": "Move Right",
+            "jump": "Jump",
+            "sneak": "Sneak",
+            "inventory": "Inventory",
+            "pause": "Pause"
+        }
+    },
+    "graphics": {
+        "msaa": "Anti-Aliasing (MSAA)",
+        "enable_shadows": "Enable Shadows",
+        "shadow_quality": "Shadow Quality",
+        "shadow_resolution": "Shadow Resolution",
+        "vsync": "Vertical Sync",
+        "fov": "Field of View",
+        "render_distance": "Render Distance",
+        "resolution_scale": "Resolution Scale",
+        "tonemapping": "Tone Mapping",
+        "tonemapping_mode": "Tone Mapping Mode"
+    },
+    "values": {
+        "off": "Off",
+        "on": "On",
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High",
+        "ultra": "Ultra",
+        "none": "None",
+        "enabled": "Enabled",
+        "disabled": "Disabled"
+    },
+    "tonemapping_modes": {
+        "none": "None",
+        "reinhard": "Reinhard",
+        "reinhard_luminance": "Reinhard Luminance",
+        "aces_fitted": "ACES Fitted",
+        "agx": "AgX",
+        "somewhat_boring": "Somewhat Boring",
+        "tony_mc_mapface": "Tony McMapface",
+        "blender_filmic": "Blender Filmic"
+    },
+    "game_modes": {
+        "survival": "Survival",
+        "creative": "Creative",
+        "adventure": "Adventure",
+        "spectator": "Spectator"
+    },
+    "world_types": {
+        "default": "Default",
+        "superflat": "Superflat",
+        "large_biomes": "Large Biomes",
+        "amplified": "Amplified"
+    },
+    "common": {
+        "yes": "Yes",
+        "no": "No",
+        "ok": "OK",
+        "cancel": "Cancel",
+        "close": "Close",
+        "back": "Back",
+        "next": "Next",
+        "previous": "Previous",
+        "save": "Save",
+        "load": "Load",
+        "delete": "Delete",
+        "edit": "Edit",
+        "create": "Create",
+        "restore_defaults": "Restore Defaults"
+    }
+}

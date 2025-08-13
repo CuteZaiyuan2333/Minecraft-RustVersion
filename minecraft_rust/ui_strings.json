@@ -1,0 +1,116 @@
+{
+  "main_menu": {
+    "title": "Minecraft Rust",
+    "singleplayer": "Singleplayer",
+    "multiplayer": "Multiplayer",
+    "settings": "Settings",
+    "quit": "Quit Game"
+  },
+  "world_selection": {
+    "title": "Select World",
+    "no_worlds": "No world saves found\nClick the button below to create a new world",
+    "back": "Back",
+    "create_world": "Create New World",
+    "create_new": "Create New World",
+    "play_selected": "Play Selected World",
+    "delete_world": "Delete World"
+  },
+  "create_world": {
+    "title": "Create New World",
+    "world_name": "World Name:",
+    "default_name": "New World",
+    "seed": "Seed (Optional):",
+    "game_mode": "Game Mode:",
+    "world_type": "World Type:",
+    "cancel": "Cancel",
+    "create": "Create World"
+  },
+  "game_modes": {
+    "survival": "Survival",
+    "creative": "Creative",
+    "adventure": "Adventure",
+    "spectator": "Spectator"
+  },
+  "world_types": {
+    "default": "Default",
+    "flat": "Superflat",
+    "large_biomes": "Large Biomes",
+    "amplified": "Amplified"
+  },
+  "pause_menu": {
+    "title": "Game Paused",
+    "continue": "Continue Game",
+    "settings": "Settings",
+    "save_and_quit": "Save and Quit to Title",
+    "quit": "Quit Game",
+    "hint": "Press ESC to continue"
+  },
+  "settings_menu": {
+    "title": "Settings",
+    "graphics": "Graphics Settings",
+    "msaa": "MSAA",
+    "shadow_resolution": "Shadow Resolution",
+    "vsync": "VSync",
+    "tone_mapping": "Tone Mapping",
+    "gameplay": "Gameplay Settings",
+    "fov": "Field of View",
+    "max_loaded_chunks": "Max Loaded Chunks",
+    "max_chunks_hint": "Range: 100-10000. Higher values use more memory but allow larger view distances.",
+    "surface_priority_quota": "Surface Priority Quota",
+    "surface_quota_hint": "Number of chunks reserved for surface/visible areas. Should be less than max chunks.",
+    "sphere_loading_radius": "Sphere Loading Radius",
+    "chunk_generation_threads": "Chunk Generation Threads",
+    "chunk_threads_warning": "⚠️ WARNING: Very high thread counts may cause system instability or performance degradation. Recommended: 2-4x your CPU core count.",
+    "back": "Back",
+    "apply": "Apply",
+    "settings_applied": "Settings applied"
+  },
+  "hud": {
+    "items": {
+      "grass_block": "Grass Block",
+      "dirt": "Dirt",
+      "stone": "Stone",
+      "bedrock": "Bedrock",
+      "air": "Air",
+      "wooden_pickaxe": "Wooden Pickaxe",
+      "stone_pickaxe": "Stone Pickaxe",
+      "iron_pickaxe": "Iron Pickaxe",
+      "diamond_pickaxe": "Diamond Pickaxe"
+    }
+  },
+  "launcher": {
+    "title": "Minecraft Rust Launcher",
+    "singleplayer": "Singleplayer",
+    "settings": "Settings",
+    "quit": "Quit",
+    "select_world": "Select World",
+    "back": "Back",
+    "create_world": "Create New World",
+    "settings_title": "Settings",
+    "settings_placeholder": "Launcher settings will be displayed here",
+    "world_examples": {
+      "my_world": "My World",
+      "survival_world": "Survival World"
+    },
+    "launch_game": "Launching game, world: ",
+    "game_started": "Game started, PID: ",
+    "launch_failed": "Failed to launch game: ",
+    "create_world_todo": "Create new world feature to be implemented"
+  },
+  "game": {
+    "controls_hint": "Press ESC to pause"
+  },
+  "common": {
+    "on": "On",
+    "off": "Off",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "ultra": "Ultra"
+  },
+  "errors": {
+    "world_exists": "World already exists",
+    "script_load_failed": "Failed to load Lua scripts: ",
+    "block_load_failed": "Failed to load blocks from scripts: "
+  }
+}
